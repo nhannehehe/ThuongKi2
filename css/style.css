@@ -1,0 +1,56 @@
+.menu-nav {
+    display: flex;
+    background-color: rgb(137, 91, 179);
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+}
+
+.aside {
+    width: 30%;
+}
+
+.title {
+    text-align: center;
+    color: red;
+}
+
+.center {
+    display: flex;
+}
+
+.Content {
+    width: 50%;
+}
+
+.form {
+    width: 50%;
+}
+
+.left {
+    display: flex;
+    justify-content: space-around;
+    width: 30%;
+    font-size: 20px;
+}
+
+.right {
+    display: flex;
+    color: rgb(168, 17, 93)
+}
+
+.section {
+    display: flex;
+}
+
+.section-left {
+    background-color: aquamarine;
+    width: 70%;
+    font-size: 20px;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(152, 105, 17);
+}
